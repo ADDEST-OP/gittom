@@ -1,4 +1,4 @@
-import mysql.connector as mariadb # DAMIAN HOLICZKO
+import mysql.connector as mariadb 
 import sys
 import msvcrt as m
 from tabulate import tabulate

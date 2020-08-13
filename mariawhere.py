@@ -1,7 +1,9 @@
 '''
 import mysql.connector as mariadb
 
-mariadb = mariadb.connect(user='root', password='toortoor', database='mydatabase')
+p = input()
+
+mariadb = mariadb.connect(user='root', password=p, database='mydatabase')
 
 cursor = mariadb.cursor()
 #sql = "SELECT * FROM customers WHERE address ='Park Lane 38'"
@@ -16,7 +18,9 @@ for x in result:
 #to prevent SQL injections, escape query values
 import mysql.connector as mariadb
 
-mariadb = mariadb.connect(user='root', password='toortoor', database='mydatabase')
+p = input()
+
+mariadb = mariadb.connect(user='root', password=p, database='mydatabase')
 
 cursor = mariadb.cursor()
 

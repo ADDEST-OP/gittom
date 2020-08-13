@@ -1,6 +1,8 @@
 import mysql.connector as mariadb
 
-mariadb = mariadb.connect(user='root', password='toortoor', database="mydatabase")
+p = input()
+
+mariadb = mariadb.connect(user='root', password=p, database="mydatabase")
 
 cursor = mariadb.cursor()
 cursor.execute("CREATE TABLE products (id VARCHAR(255), name VARCHAR(255))")

@@ -1,7 +1,9 @@
 '''
 import mysql.connector as mariadb
 
-mariadb = mariadb.connect(user='root', password='toortoor', database='mydatabase')
+p = input()
+
+mariadb = mariadb.connect(user='root', password=p, database='mydatabase')
 
 cursor = mariadb.cursor()
 sql = "DELETE FROM customers WHERE address = 'Mountain 21'"
@@ -14,7 +16,9 @@ print(cursor.rowcount, "record(s) deleted")
 #Escaping query value
 import mysql.connector as mariadb
 
-mariadb = mariadb.connect(user='root', password='toortoor', database='mydatabase')
+p = input()
+
+mariadb = mariadb.connect(user='root', password=p, database='mydatabase')
 
 cursor = mariadb.cursor()
 sql = "DELETE FROM customers WHERE address = %s"

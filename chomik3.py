@@ -1,7 +1,9 @@
 import mysql.connector as mariadb
 from tabulate import tabulate
 
-mariadb = mariadb.connect(user='root', password='toortoor', database='mydatabase')
+p = input("Password: ")
+
+mariadb = mariadb.connect(user='root', password=p, database='mydatabase')
 cursor = mariadb.cursor()
 
 sel = input("Select: ")

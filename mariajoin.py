@@ -2,7 +2,10 @@ import mysql.connector as mariadb #Importerar en modul mysql och ger den allias 
 
 #Variabel 'mariadb' som kommer ansluta sig mot sql databasen
 # loga in med root access och få tillgång till mydatabase.
-mariadb = mariadb.connect(user='root', password='toortoor', database='mydatabase')
+
+p = input()
+
+mariadb = mariadb.connect(user='root', password=p, database='mydatabase')
 
 #Exekverar sql commandos inom databas session.
 cursor = mariadb.cursor()

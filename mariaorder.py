@@ -1,6 +1,8 @@
 import mysql.connector as mariadb
 
-mariadb = mariadb.connect(user='root', password='toortoor', database='mydatabase')
+p = input()
+
+mariadb = mariadb.connect(user='root', password=p, database='mydatabase')
 
 cursor = mariadb.cursor()
 #sql = "SELECT * FROM customers ORDER BY name"
