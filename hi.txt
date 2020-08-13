@@ -1,0 +1,994 @@
+IP: 45.248.86.100, Land: China, Server: HTTP/1.1 400 Bad Request
+Date: Mon, 11 May 2020 14:32:35 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 651
+Connection: close
+Server: Apache
+
+, OS: None 
+IP: 13.209.16.101, Land: South Korea, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:00 GMT
+Server: Apache/2.4.39 (Amazon) PHP/7.3.11
+X-Powered-By: PHP/7.3.11
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 162.255.160.189, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:27 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+, OS: None 
+IP: 62.234.32.80, Land: China, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:31:53 GMT
+Server: Apache/2.4.27 (Win32) OpenSSL/1.0.2l mod_fcgid/2.3.9
+Set-Cookie: security_session_verify=e7c067f60ccac3f67672cece8619d2a9; expires=Thu, 14-May-20 22:31:53 GMT; path=/; HttpOnly
+Set-Cookie: security_session_verify=e7c067f60ccac3f67672cece8619d2a9; expires=Thu, 14-May-20 22:31:53 GMT; path=/; HttpOnly
+Last-Modified: Wed, 03 May 2017 04:30:08 GMT
+ETag: "555-54e971c7c319b"
+Accept-Ranges: bytes
+Content-Length: 1365
+Content-Type: text/html
+
+, OS: None 
+IP: 192.135.27.202, Land: Italy, Server: HTTP/1.1 302 Found
+Date: Mon, 11 May 2020 14:34:31 GMT
+Server: Apache/2.2.22 (Debian)
+Location: https://www.gssi.it/
+Vary: Accept-Encoding
+Content-Length: 281
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 195.244.248.15, Land: Germany, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:32:36 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Location: https://config.vtserver.de/
+Content-Length: 235
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 54.39.99.124, Land: Canada, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:34:30 GMT
+Server: Apache/2.2.15
+X-Powered-By: PHP/7.1.33
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6InpsUnNTNDdtWFZYSHkxOXozMzhWNEE9PSIsInZhbHVlIjoibEtCc2duRVBnK1FKNFIyamw4bzVITUUrS2NzVkJTMCtGSXdtSG9CMzBQaG5haTRDRmlJRmtDcHhZU0ZmTmhUWiIsIm1hYyI6ImZmNmNlYTMwMjIzNzA3YWEwNmEzMGRlNDA5Zjk5OGVmODExOWZkMTA1ZDdjMDAxMjI5YTkzZTlkM2Q3YWRjMGIifQ%3D%3D; expires=Mon, 11-May-2020 16:34:30 GMT; Max-Age=7200; path=/
+Set-Cookie: cartbecart_session=eyJpdiI6ImtBbEgwb0wzVWorUzNjN0ZlQ05zdWc9PSIsInZhbHVlIjoieTNqUUdTd3JTV1dqc1lrOG50YWhEaDhhTDZuSmV6SlUzTHFiT1RxUFhGRlUxSzRIbFRnTG5cL0RlOFVLSndxanEiLCJtYWMiOiIwOTliNzZjN2JlOWNjNjY3YjRkZWMxYzdiZmZhY2FiNjFkYzI4ODY3MjcwZDNiYzIxY2YzNjU1ZWFjZTVmODMzIn0%3D; expires=Mon, 11-May-2020 16:34:30 GMT; Max-Age=7200; path=/; httponly
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 202.253.245.30, Land: Japan, Server: HTTP/1.1 403 Forbidden
+Date: Mon, 11 May 2020 14:32:16 GMT
+Server: Apache
+Content-Length: 202
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 188.166.113.114, Land: Netherlands, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:08 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IlFRTFwvYW43Z0RibktpUFd2ODM0WmhnPT0iLCJ2YWx1ZSI6ImlnanRLOUJcLzRCZzVKNzdmWjBweVUxM2haaVwvUnowcmJjTWZRRWhxdStwZnhKc1RJdDBRTTYycHZqSUdscGZLeiIsIm1hYyI6ImY2MTZkOTc5NGQ4ZjgxNzkyOTA3OGJjZTJjYjlkYWQ2ZDU5MDdiMjAxNTE5ZTVlMWI0ODk0MTk5ODdhNmVmZDgifQ%3D%3D; expires=Mon, 11-May-2020 16:32:08 GMT; Max-Age=7200; path=/
+Set-Cookie: arhiled_session=eyJpdiI6IlIwSUdDbER5MTArcWdGczIzTGdTeFE9PSIsInZhbHVlIjoiRk81cVEzWHBtdEZVTWlhQVZpOU5sUVlsa1R4RFFTTFN3RlA4Nnl1MlRlUzRqQVQrRlh6TnBvRXk5R1JrMWg4aiIsIm1hYyI6ImNkNWFkYTRkN2Q1MjlhYmY2ZjM2Nzg4OGIyZDNiY2MxZmEzMjZjOTlkMmVjODlmMzA5NTQxZTkwOTk2MDMyNDMifQ%3D%3D; expires=Mon, 11-May-2020 16:32:08 GMT; Max-Age=7200; path=/; httponly
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 195.244.248.88, Land: Germany, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:32:34 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Location: https://config.vtserver.de/
+Content-Length: 315
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 210.126.6.20, Land: South Korea, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:29:13 GMT
+Server: Apache
+X-Powered-By: PHP/5.6.36
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 37.49.228.141, Land: Estonia, Server: HTTP/1.1 403 Forbidden
+Date: Mon, 11 May 2020 14:33:03 GMT
+Server: Apache/2.2.15 (CentOS)
+Accept-Ranges: bytes
+Content-Length: 4961
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 151.248.127.64, Land: Russia, Server: HTTP/1.1 200 OK\r\nDate: Mon, 11 May 2020 14:32:03 GMT\r\nServer: Apache/2.2.15 (CentOS)\r\nX-Powered-By: PHP/7.4.3\r\nLink: <https://r3s-srr.ru/index.php?rest_route=/>; rel="https://api.w.org/", <https://r3s-srr.ru/>; rel=shortlink\r\nX-TEC-API-VERSION: v1\r\nX-TEC-API-ROOT: https://r3s-srr.ru/index.php?rest_route=/tribe/events/v1/\r\nX-TEC-API-ORIGIN: https://r3s-srr.ru\r\nConnection: close\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\n\r\nd53d\r\n<!DOCTYPE html>\r\n<html lang="ru-RU">\r\n<head>\r\n<meta charset="UTF-8">\r\n<meta name="viewport" content="width=device-width, initial-scale=1">\r\n<link rel="profile" href="http://gmpg.org/xfn/11">\r\n<link rel="pingback" href="http://r3s-srr.ru/xmlrpc.php">\r\n<title>r3s-srr.ru &#8212; \xd0\xa1\xd0\xb0\xd0\xb9\xd1\x82 \xd0\xa0\xd0\x9e \xd0\xa1\xd0\xa0\xd0\xa0 \xd0\xbf\xd0\xbe \xd0\xa0\xd1\x8f\xd0\xb7\xd0\xb0\xd0\xbd\xd1\x81\xd0\xba\xd0\xbe\xd0\xb9 \xd0\xbe\xd0\xb1\xd0\xbb\xd0\xb0\xd1\x81\xd1\x82\xd0\xb8</title>\n<link rel=\'dns-prefetch\' href=\'//r3s-srr.ru\' />\n<link rel=\'dns-prefetch\' href=\'//fonts.googleapis.com\' />\n<link rel=\'dns-prefetch\' href=\'//s.w.org\' />\n<link rel="alternate" type="application/rss+xml" title="r3s-srr.ru &raquo; \xd0\x9b\xd0\xb5\xd0\xbd\xd1\x82\xd0\xb0" href="https://r3s-srr.ru/?feed=rss2" />\n<link rel="alternate" type="application/rss+xml" title="r3s-srr.ru &raquo; \xd0\x9b\xd0\xb5\xd0\xbd\xd1\x82\xd0\xb0 \xd0\xba\xd0\xbe\xd0\xbc\xd0\xbc\xd0\xb5\xd0\xbd\xd1\x82\xd0\xb0\xd1\x80\xd0\xb8\xd0\xb5\xd0\xb2" href="https://r3s-srr.ru/?feed=comments-rss2" />\n<link rel="alternate" type="text/calendar" title="r3s-srr.ru &raquo; \xd0\x9d\xd0\xbe\xd0\xb2\xd0\xbe\xd1\x81\xd1\x82\xd0\xbd\xd0\xb0\xd1\x8f \xd0\xbb\xd0\xb5\xd0\xbd\xd1\x82\xd0\xb0 iCal" href="https://r3s-srr.ru?post_type=tribe_events&#038;ical=1" />\n\t\t<script type="text/javascript">\n\t\t\twindow._wpemojiSettings = {"baseUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/12.0.0-1\\/72x72\\/","ext":".png","svgUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/12.0.0-1\\/svg\\/","svgExt":".svg","source":{"concatemoji":"http:\\/\\/r3s-srr.ru\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.4.1"}};\n\t\t\t/*! This file is auto-generated */\n\t\t\t!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={e, OS: None 
+IP: 212.124.179.34, Land: Italy, Server: HTTP/1.1 302 Found
+Date: Mon, 11 May 2020 14:32:37 GMT
+Server: Apache
+Set-Cookie: roundcube_sessid=cp420dd3nektqbk2aovh0b0i20; path=/; HttpOnly
+Expires: Mon, 11 May 2020 14:32:37 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Last-Modified: Mon, 11 May 2020 14:32:37 GMT
+X-DNS-Prefetch-Control: off
+Location: https://212.124.179.34/mail/
+Vary: Accept-Encoding
+Content-Length: 0
+Content-Type: text/html
+
+, OS: None 
+IP: 193.142.146.102, Land: Netherlands, Server: HTTP/1.1 403 Forbidden
+Date: Mon, 11 May 2020 14:32:54 GMT
+Server: Apache/2.4.6 (CentOS)
+Last-Modified: Thu, 16 Oct 2014 13:20:58 GMT
+ETag: "1321-5058a1e728280"
+Accept-Ranges: bytes
+Content-Length: 4897
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 79.210.89.127, Land: Germany, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:31:53 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+Location: https://schule.evosh.de/
+Content-Length: 232
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 104.168.148.101, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:00 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+, OS: None 
+IP: 47.115.122.243, Land: China, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:18 GMT
+Server: Apache/2.4.9 (Win64) PHP/5.5.12
+Content-Length: 782
+Content-Type: text/html;charset=UTF-8
+
+, OS: None 
+IP: 54.209.239.43, Land: United States, Server: HTTP/1.1 302 Found
+Date: Mon, 11 May 2020 14:32:15 GMT
+Server: Apache
+Location: https://54.209.239.43/index.php?login
+Set-Cookie: PHPSESSID=cshke976nqkov9carib08s2sk7; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 3650
+Connection: close
+Content-Type: text/html
+
+, OS: None 
+IP: 82.166.0.37, Land: Israel, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:15:52 GMT
+Server: Apache/2
+X-Powered-By: PHP/5.4.28
+Vary: Accept-Encoding,Cookie,User-Agent
+Set-Cookie: PHPSESSID=ufnip1kjvlpgvc11sdr40pvtr5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: https://www.dreamax.co.il/
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 103.103.164.33, Land: Japan, Server: HTTP/1.1 403 Forbidden
+Date: Mon, 11 May 2020 14:32:01 GMT
+Server: Apache/2.2.13 (Unix) mod_ssl/2.2.13 OpenSSL/1.0.1e-fips
+Content-Length: 202
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 69.36.190.163, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:33:01 GMT
+Server: Apache/2.0.52 (Red Hat)
+Last-Modified: Mon, 26 Apr 2010 10:40:32 GMT
+ETag: "29fab1-13b-67fea800"
+Accept-Ranges: bytes
+Content-Length: 315
+Connection: close
+Content-Type: text/html
+
+, OS: None 
+IP: 54.154.91.44, Land: Ireland, Server: HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 11 May 2020 14:32:37 GMT
+Server: Apache/2.4.39 (Amazon) mod_wsgi/3.5 Python/3.6.8
+Content-Length: 26
+Connection: keep-alive
+
+, OS: None 
+IP: 190.96.15.171, Land: Chile, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:47:04 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3
+Content-Length: 1667
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 47.97.197.93, Land: China, Server: HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=E6E6AEFFE4B92FABA594D2DAE30EDCC8; Path=/; HttpOnly
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Mon, 11 May 2020 14:32:28 GMT
+
+, OS: None 
+IP: 80.68.224.254, Land: Poland, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:38 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Content-Length: 320
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 154.206.205.232, Land: Hong Kong, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:58 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Last-Modified: Wed, 26 Apr 2017 08:03:47 GMT
+ETag: "52e-54e0d47a39ec0"
+Accept-Ranges: bytes
+Content-Length: 1326
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 165.227.143.38, Land: Germany, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:31:52 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Set-Cookie: PHPSESSID=cn8vtd1asqjop6hfqcfe54eiu0; expires=Mon, 11-May-2020 15:31:52 GMT; Max-Age=3600; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: _csrf=87d83362d2c4be348f809cefadfbeaacfb97705be14c0a703bc86f544adf1125a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Ac2QNX-0bw-1F1wNpoboTPDsv7hb3uP5%22%3B%7D; path=/; HttpOnly
+Vary: Accept-Encoding
+Content-Length: 7051
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 186.13.112.83, Land: Argentina, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:36 GMT
+Server: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30
+Last-Modified: Mon, 30 Mar 2020 05:15:22 GMT
+ETag: "219-5a20b89c07581"
+Accept-Ranges: bytes
+Content-Length: 537
+Content-Type: text/html
+
+, OS: None 
+IP: 217.204.249.4, Land: United Kingdom, Server: HTTP/1.1 400 Bad Request\r\nTransfer-Encoding: chunked\r\nDate: Mon, 11 May 2020 14:32:22 GMT\r\nConnection: close\r\nServer: Apache TomEE\r\n\r\n0\r\n\r\n, OS: None 
+IP: 89.163.215.209, Land: Germany, Server: HTTP/1.1 404 Not Found
+Date: Mon, 11 May 2020 14:32:59 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Status: 404 Not Found
+Content-Length: 156
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 68.183.247.193, Land: India, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:32:42 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Location: https://www.scholarshoppe.com/
+Content-Length: 325
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 140.227.245.108, Land: Japan, Server: HTTP/1.1 403 Forbidden
+Date: Mon, 11 May 2020 14:32:48 GMT
+Server: Apache
+Content-Length: 59
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 204.12.234.118, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:33:01 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Last-Modified: Tue, 11 Feb 2020 02:27:32 GMT
+ETag: "1-59e43991e71a4"
+Accept-Ranges: bytes
+Content-Length: 1
+Content-Type: text/html
+
+
+, OS: None 
+IP: 66.85.75.188, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:02 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.6.40 mod_perl/2.0.11 Perl/v5.16.3
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 142.11.216.191, Land: United States, Server: HTTP/1.1 404 No Encontrado
+Server: Apache-Coyote/1.1
+Content-Length: 0
+Date: Mon, 11 May 2020 14:31:53 GMT
+
+, OS: None 
+IP: 156.234.68.132, Land: Hong Kong, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:38:15 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Last-Modified: Wed, 26 Apr 2017 08:03:47 GMT
+ETag: "52e-54e0d47a39ec0"
+Accept-Ranges: bytes
+Content-Length: 1326
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 197.242.158.22, Land: South Africa, Server: HTTP/1.1 401 Unauthorized
+Server: Apache-Coyote/1.1
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, AuthToken
+WWW-Authenticate: Basic realm="REALM"
+Content-Length: 290
+Date: Mon, 11 May 2020 14:34:43 GMT
+
+, OS: None 
+IP: 34.246.199.31, Land: Ireland, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:28 GMT
+Server: Apache
+X-Powered-By: PHP/7.3.11
+Link: <http://34.246.199.31/wp-json/>; rel="https://api.w.org/", <http://34.246.199.31/>; rel=shortlink
+X-Frame-Options: SAMEORIGIN
+Vary: Cookie,Accept-Encoding
+X-Mod-Pagespeed: 1.13.35.2-0
+Cache-Control: max-age=0, no-cache, s-maxage=10
+Content-Length: 46061
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 50.62.208.144, Land: United States, Server: HTTP/1.1 404 Not Found
+Date: Mon, 11 May 2020 14:31:58 GMT
+Server: Apache
+X-Web-Server: p3nlwpweb152.shr.prod.phx3.secureserver.net
+Content-Length: 196
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 84.114.164.64, Land: Austria, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:35 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Content-Length: 7269
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 50.87.115.53, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:31:56 GMT
+Server: Apache
+Last-Modified: Wed, 06 May 2009 18:07:59 GMT
+ETag: "64-4694246893dc0"
+Accept-Ranges: bytes
+Content-Length: 100
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 87.106.225.150, Land: Germany, Server: HTTP/1.1 401 Unauthorized
+Date: Mon, 11 May 2020 14:32:35 GMT
+Server: Apache
+WWW-Authenticate: Basic realm="DAV"
+Content-Length: 381
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 23.229.244.219, Land: United States, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:32:58 GMT
+Server: Apache
+Location: https://23.229.244.219/
+Cache-Control: max-age=864000
+Expires: Thu, 21 May 2020 14:32:58 GMT
+Content-Length: 231
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 36.55.228.193, Land: Japan, Server: HTTP/1.1 403 Forbidden
+Date: Mon, 11 May 2020 14:32:23 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+Last-Modified: Thu, 16 Oct 2014 13:20:58 GMT
+ETag: "1321-5058a1e728280"
+Accept-Ranges: bytes
+Content-Length: 4897
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 153.122.26.204, Land: Japan, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:18 GMT
+Server: Apache/2.2.3 (CentOS)
+X-Powered-By: PHP/5.1.6
+Content-Length: 2168
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 45.79.204.30, Land: United States, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:32:37 GMT
+Server: Apache
+Location: https://buyaircraftparts.com/
+Cache-Control: max-age=2592000
+Expires: Wed, 10 Jun 2020 14:32:37 GMT
+Content-Length: 237
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 138.204.69.243, Land: Brazil, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:28:02 GMT
+Server: Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 mod_apreq2-20090110/2.7.1 mod_perl/2.0.4 Perl/v5.10.1
+Last-Modified: Tue, 04 Aug 2015 16:59:44 GMT
+ETag: "80000000001a3-f2e-51c7f367ae000"
+Accept-Ranges: bytes
+Content-Length: 3886
+Content-Type: text/html
+
+, OS: None 
+IP: 147.162.2.62, Land: Italy, Server: HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=D88558D706FA2B32B0C8FD416DB788B1; Path=/; HttpOnly
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Mon, 11 May 2020 14:32:58 GMT
+
+, OS: None 
+IP: 149.210.223.127, Land: Netherlands, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:33:05 GMT
+Server: Apache/2
+Last-Modified: Thu, 23 Nov 2017 06:39:21 GMT
+ETag: "2c-55ea0b23f3b96"
+Accept-Ranges: bytes
+Content-Length: 44
+Vary: User-Agent
+Content-Type: text/html
+
+, OS: None 
+IP: 77.116.71.166, Land: Austria, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:31:55 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Set-Cookie: PHPSESSID=8sb3tqbaq0sucpc9i49jif3av3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Last-Modified: Mon, 11 May 2020 14:31:55 GMT
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 185.80.37.110, Land: Netherlands, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:31:57 GMT
+Server: Apache
+Last-Modified: Wed, 05 Jul 2017 18:28:11 GMT
+ETag: "0"
+Accept-Ranges: bytes
+Content-Length: 0
+Content-Type: text/html
+
+, OS: Linux 3.x 
+IP: 192.185.182.203, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:42 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Tue, 23 Apr 2019 06:18:57 GMT
+Accept-Ranges: bytes
+Content-Length: 11816
+Vary: Accept-Encoding
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Type: text/html
+
+, OS: None 
+IP: 49.212.238.78, Land: Japan, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:00 GMT
+Server: Apache
+Last-Modified: Wed, 24 May 2017 00:20:58 GMT
+ETag: "5205d2-0-5503a14174505"
+Accept-Ranges: bytes
+Content-Length: 0
+Connection: close
+Content-Type: text/html
+
+, OS: None 
+IP: 142.176.177.83, Land: Canada, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:53 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Last-Modified: Mon, 25 Feb 2019 21:50:16 GMT
+ETag: "90-582beed0cf600"
+Accept-Ranges: bytes
+Content-Length: 144
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 46.183.24.186, Land: Sweden, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:33:00 GMT
+Server: Apache
+Set-Cookie: Apache=98.153.237.65.1589207580894024; path=/; expires=Wed, 11-May-22 14:33:00 GMT
+Last-Modified: Mon, 28 Mar 2011 14:00:02 GMT
+ETag: "1ce2502-b1-49f8b5c245c80"
+Accept-Ranges: bytes
+Content-Length: 177
+Vary: Accept-Encoding,User-Agent
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+Content-Type: text/html
+
+, OS: None 
+IP: 51.145.149.194, Land: Netherlands, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:06 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+X-Mod-Pagespeed: 1.9.32.14-0
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache
+Content-Length: 6962
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 44.230.43.204, Land: United States, Server: HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 11 May 2020 14:32:19 GMT
+Location: https://www.elac.com/
+Server: Apache
+X-Redirect-By: WordPress
+Content-Length: 0
+Connection: keep-alive
+
+, OS: None 
+IP: 94.23.152.243, Land: United Kingdom, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:32:55 GMT
+Server: Apache/2.2.22 (Debian)
+Location: https://94.23.152.243/
+Vary: Accept-Encoding
+Content-Length: 309
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 31.220.126.81, Land: Germany, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:33:01 GMT
+Server: Apache
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+
+, OS: Linux 3.x 
+IP: 185.19.184.141, Land: Italy, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:14 GMT
+Server: Apache/2.4.38 (Debian)
+Last-Modified: Mon, 16 Mar 2020 13:43:48 GMT
+ETag: "62-5a0f90244a8d9"
+Accept-Ranges: bytes
+Content-Length: 98
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 149.91.89.160, Land: France, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:09 GMT
+Server: Apache/2.4.38 (Debian)
+Last-Modified: Sat, 25 Jan 2020 12:24:28 GMT
+ETag: "64-59cf5f49b86bb"
+Accept-Ranges: bytes
+Content-Length: 100
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 216.251.33.56, Land: Canada, Server: HTTP/1.1 404 Not Found
+Date: Mon, 11 May 2020 14:32:13 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 21
+Connection: keep-alive
+Server: Apache
+
+, OS: None 
+IP: 178.32.6.218, Land: France, Server: HTTP/1.1 403 Forbidden
+Date: Mon, 11 May 2020 14:33:00 GMT
+Server: Apache
+Content-Length: 202
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 37.187.90.122, Land: France, Server: HTTP/1.1 302 Found
+Date: Mon, 11 May 2020 14:32:09 GMT
+Server: Apache/2.4.25 (Debian)
+Location: https://37.187.90.122/
+Content-Length: 285
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 180.211.86.62, Land: Japan, Server: HTTP/1.1 302 Found
+Date: Mon, 11 May 2020 14:32:57 GMT
+Server: Apache
+Location: https://180.211.86.62/
+Content-Length: 206
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 173.201.243.230, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:31:56 GMT
+Server: Apache
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Length: 18339
+Content-Type: text/html
+
+, OS: None 
+IP: 199.108.193.171, Land: United States, Server: HTTP/1.1 302 Found
+Date: Mon, 11 May 2020 14:32:21 GMT
+Server: Apache
+Location: https://ebseprep.nch.com/
+Content-Length: 209
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 78.156.147.142, Land: Czechia, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:02 GMT
+Server: Apache
+Cache-control: no-store
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset="UTF-8"
+
+, OS: None 
+IP: 209.197.98.82, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:34 GMT
+Server: Apache
+Last-Modified: Fri, 13 Jun 2014 05:41:49 GMT
+ETag: "e2e-4fbb12249de96"
+Accept-Ranges: bytes
+Content-Length: 3630
+Content-Type: text/html
+
+, OS: None 
+IP: 101.37.81.0, Land: China, Server: HTTP/1.1 400 \r\nContent-Type: text/html;charset=utf-8\r\nContent-Language: en\r\nContent-Length: 1879\r\nDate: Mon, 11 May 2020 14:32:34 GMT\r\nConnection: close\r\n\r\n<!doctype html><html lang="en"><head><title>HTTP Status 400 \xe2\x80\x93 Bad Request</title><style type="text/css">body {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><body><h1>HTTP Status 400 \xe2\x80\x93 Bad Request</h1><hr class="line" /><p><b>Type</b> Exception Report</p><p><b>Message</b> Invalid character found in method name. HTTP method names must be tokens</p><p><b>Description</b> The server cannot or will not process the request due to something that is perceived to be a client error (e.g., malformed request syntax, invalid request message framing, or deceptive request routing).</p><p><b>Exception</b></p><pre>java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens\n\torg.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:432)\n\torg.apache.coyote.http11.Http11Processor.service(Http11Processor.java:502)\n\torg.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)\n\torg.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)\n\torg.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)\n\torg.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)\n\tjava.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)\n\tjava.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)\n\torg.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)\n\tjava.lang.Thread.run(Thread.java:745)\n</pre><p><b>Note</b> The full stack trace of the root cause is available in the server logs.</p><hr class="line" /><h3>Apache Tomcat/8.5.54</h3></body></html>, OS: None 
+IP: 153.146.162.75, Land: Japan, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:35 GMT
+Server: Apache
+Last-Modified: Wed, 26 Nov 2014 14:00:37 GMT
+ETag: "c7-508c373c80366"
+Accept-Ranges: bytes
+Content-Length: 199
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 192.99.63.25, Land: Canada, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:16 GMT
+Server: Apache
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+, OS: None 
+IP: 85.146.3.58, Land: Netherlands, Server: HTTP/1.1 302 Found
+Date: Mon, 11 May 2020 14:47:30 GMT
+Server: Apache
+Location: https://85.146.3.58:443/
+Content-Length: 208
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 3.125.38.162, Land: Germany, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:40 GMT
+Server: Apache
+Content-Type: text/html
+Content-Length: 266
+
+<html>
+<head>
+  <title>login</title>
+</head>
+<body>
+<form action="/login" method="post">
+    <p>
+    name:<input type="text" id="name" /><br>
+    password:<input type="password" id="pass" /><br>
+    <button type="submit">login</button>
+  </p>
+</form>
+</body>
+</html>, OS: None 
+IP: 212.70.13.5, Land: Denmark, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:32:21 GMT
+Server: Apache/2.2.16 (Debian)
+Location: http://www.212.70.13.5/
+Vary: Accept-Encoding
+Content-Length: 308
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 154.83.249.74, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:05 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Last-Modified: Wed, 26 Apr 2017 08:03:47 GMT
+ETag: "52e-54e0d47a39ec0"
+Accept-Ranges: bytes
+Content-Length: 1326
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 202.194.193.56, Land: China, Server: HTTP/1.1 403 Forbidden
+Date: Mon, 11 May 2020 13:53:50 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Wed, 03 Jul 2019 02:00:31 GMT
+ETag: "28b-58cbd39e7ac2c"
+Accept-Ranges: bytes
+Content-Length: 651
+Content-Type: text/html
+
+, OS: None 
+IP: 44.230.72.100, Land: United States, Server: HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 11 May 2020 14:32:22 GMT
+Link: <https://www.elac.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.elac.com/>; rel=shortlink
+Server: Apache/2.4.29 (Ubuntu)
+Vary: Accept-Encoding
+transfer-encoding: chunked
+Connection: keep-alive
+
+, OS: None 
+IP: 94.23.68.62, Land: France, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:33:24 GMT
+Server: Apache/2.4.10 (Debian)
+X-Redirect-By: WordPress
+Location: https://abmach.it/
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 174.138.106.159, Land: Netherlands, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:33:04 GMT
+Server: Apache/2.4.29
+Last-Modified: Sun, 19 Jan 2020 15:31:43 GMT
+ETag: "2aa6-59c7fdf36a939"
+Accept-Ranges: bytes
+Content-Length: 10918
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 1.158.116.237, Land: Australia, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:38 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.29
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+, OS: None 
+IP: 93.108.241.194, Land: Portugal, Server: HTTP/1.1 400 Bad Request
+Date: Mon, 11 May 2020 14:32:04 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Set-Cookie: ocufufid387t=7fflp0m2hvlrnpmobtkt9vs8vi; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: oc_sessionPassphrase=xWuIxzlLJbpoL2hO120q0gILfTuoh5ibuNoBiEyRQ1rZrZPKrYtFxG00vbMFCOnn0KtwidNU1uRmBaTzndcRv%2B5Ynqo1h42e38xvYg3m8fr%2FgnqeSsGnj9UejtNWb7%2FA; path=/; HttpOnly
+Content-Security-Policy: default-src 'self'; script-src 'self' 'nonce-dmk1V2hyclZpa1pKRC9jY21IRWl0SytyK2J3cnRraTlXUVlOQmhwNm1oTT06a1JZbTFjbVB5Qll4ZkpWbzNrZHAvZWJBbE9rQXhDbjREbVY2UjBnM3JuRT0='; style-src 'self' 'unsafe-inline'; frame-src *; img-src * data: blob:; font-src 'self' data:; media-src *; connect-src *; object-src 'none'; base-uri 'self';
+Referrer-Policy: no-referrer
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: none
+X-XSS-Protection: 1; mode=block
+Set-Cookie: nc_sameSiteCookielax=true; path=/; httponly;expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=lax
+Set-Cookie: nc_sameSiteCookiestrict=true; path=/; httponly;expires=Fri, 31-Dec-2100 23:59:59 GMT; SameSite=strict
+Content-Length: 7615
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 65.23.208.45, Land: Puerto Rico, Server: HTTP/1.1 307 Temporary Redirect
+Date: Mon, 11 May 2020 14:32:54 GMT
+Server: Apache/2.2.14 (Ubuntu)
+X-Powered-By: Phusion Passenger (mod_rails/mod_rack) 2.2.7
+Cache-Control: no-cache
+X-Runtime: 1
+Content-Length: 191
+Location: http://1.1.1.1/application/notifications_redirections?back_url=http%3A%2F%2F65.23.208.45%2F&locale=es&status=disabled
+Status: 307
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+
+, OS: None 
+IP: 208.78.102.200, Land: United States, Server: HTTP/1.1 403 Forbidden
+Date: Mon, 11 May 2020 14:53:59 GMT
+Server: Apache/2.2.8 (Ubuntu) DAV/2 Phusion_Passenger/2.0.3 PHP/5.2.4-2ubuntu5.3 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+Content-Length: 202
+Content-Type: text/html; charset=iso-8859-1
+X-Pad: avoid browser bug
+
+, OS: None 
+IP: 50.87.25.116, Land: United States, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:31:55 GMT
+Server: Apache
+Location: https://50.87.25.116/
+Content-Length: 291
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 80.248.228.154, Land: Sweden, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:39 GMT
+Server: Apache/2.4.7 (Ubuntu)
+X-Powered-By: PHP/5.5.9-1ubuntu4.29
+Vary: Accept-Encoding
+Content-Length: 2478
+Content-Type: text/html
+
+, OS: None 
+IP: 167.114.253.223, Land: France, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:33:20 GMT
+Server: Apache/2.4.10 (Debian)
+X-Redirect-By: WordPress
+Location: https://abmach.it/
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 52.35.127.174, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:48 GMT
+Server: Apache
+Last-Modified: Wed, 11 Nov 2015 19:52:49 GMT
+ETag: "2cf6-524492bcbda01"
+Accept-Ranges: bytes
+Content-Length: 11510
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 49.234.95.240, Land: China, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:53 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Last-Modified: Wed, 26 Apr 2017 08:03:47 GMT
+ETag: "52e-54e0d47a39ec0"
+Accept-Ranges: bytes
+Content-Length: 1326
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 205.161.35.226, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:17 GMT
+Server: Apache
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 89.184.131.20, Land: Denmark, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:31:55 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Set-Cookie: roundcube_sessid=01fh2d3hanao5ihpetgkbaokb6; path=/; HttpOnly
+Expires: Mon, 11 May 2020 14:31:55 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Last-Modified: Mon, 11 May 2020 14:31:55 GMT
+X-DNS-Prefetch-Control: off
+X-Frame-Options: sameorigin
+Content-Language: da
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 107.21.116.50, Land: United States, Server: HTTP/1.1 301 Moved Permanently
+Date: Mon, 11 May 2020 14:32:24 GMT
+Server: Apache/2.2.34 (Amazon)
+Location: https://alpha.cyclcrm.com/
+Content-Length: 313
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+, OS: None 
+IP: 156.226.227.155, Land: South Africa, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:52 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Last-Modified: Wed, 26 Apr 2017 08:03:47 GMT
+ETag: "52e-54e0d47a39ec0"
+Accept-Ranges: bytes
+Content-Length: 1326
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 212.227.182.158, Land: Germany, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:42 GMT
+Server: Apache
+Last-Modified: Fri, 17 Mar 2006 09:59:02 GMT
+ETag: "e27-40f2ddbc66580"
+Accept-Ranges: bytes
+Content-Length: 3623
+Content-Type: text/html
+
+, OS: None 
+IP: 45.55.82.133, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:12:00 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Mod-Pagespeed: 1.13.35.2-0
+Cache-Control: max-age=0, no-cache, s-maxage=10
+Content-Length: 14942
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 45.202.83.76, Land: Hong Kong, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 22:34:58 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Last-Modified: Wed, 26 Apr 2017 08:03:47 GMT
+ETag: "52e-54e0d47a39ec0"
+Accept-Ranges: bytes
+Content-Length: 1326
+Vary: Accept-Encoding
+Content-Type: text/html
+
+, OS: None 
+IP: 3.17.162.163, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:32:19 GMT
+Server: Apache/2.2.34 (Amazon)
+Last-Modified: Wed, 18 Dec 2019 10:41:15 GMT
+ETag: "60c5b-16-599f8158bd75c"
+Accept-Ranges: bytes
+Content-Length: 22
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+, OS: None 
+IP: 34.208.108.164, Land: United States, Server: HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 11 May 2020 14:32:23 GMT
+Link: <https://www.elac.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.elac.com/>; rel=shortlink
+Server: Apache/2.4.29 (Ubuntu)
+Vary: Accept-Encoding
+transfer-encoding: chunked
+Connection: keep-alive
+
+, OS: None 
+IP: 132.148.226.203, Land: United States, Server: HTTP/1.1 200 OK
+Date: Mon, 11 May 2020 14:33:01 GMT
+Server: Apache
+Upgrade: h2,h2c
+Connection: Upgrade
+Last-Modified: Fri, 13 Sep 2019 23:58:34 GMT
+ETag: "e28e8-7ab-59278082f5783"
+Accept-Ranges: bytes
+Content-Length: 1963
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html
+
+, OS: None 
