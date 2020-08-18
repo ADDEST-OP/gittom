@@ -2,58 +2,140 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Hello World!</title>
+    <title>Hamsters and Rabbits</title>
+    <style>
+      img {display: block;margin-left: auto;margin-right: auto;}
+    </style>
   </head>
   <body>
-    <h2 style="text-align: center">This is&nbsp;something new.<time datetime="2020:08:14"> 13:26 Friday</time></h2>
-    <p>This is my <em>favorite</em> time of the <i>year</i>.</p>
-    <p><q>When i <strong>come</strong> home <code>&lt;h2&gt; &amp; &copy; &trade; &star;</code> and see that i'm <b>lost</b>.</q></p>
+    <h1 style="text-align: center">Hamsters and Rabbits on&nbsp;
+      <time datetime="2020:08:24">Monday</time></h1>
 
-    <blockquote contenteditable="true">
-      Edit hear
-    </blockquote>
+
+    <img style="float: left" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-480.jpg"
+       alt="dog" width="480" height="360"
+       srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-960.jpg 960w,
+               https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-1440.jpg 1440w,
+               https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-1920.jpg 1920w">
+
+    <img style="float:right" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-480.jpg"
+       alt="dog" width="480" height="360"
+
+       srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-960.jpg 2x,
+               https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-1440.jpg 3x,
+               https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog-1920.jpg 4x">
+
+    <p style="float:center">This is <em>Molly</em><br>
+       our new commentator for this <i>evening</i>.<br>
+       She will <b>comment</b> on <code>&lt;h2&gt; &amp; &copy; &trade; &star;</code>
+       <br>and other <strong>things</strong>.<br>At least that what she <q>told us</q>.</p>
+
+    <figure>
+      <picture>
+        <source media="(min-width:600px)"
+            srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog2-720.jpg">
+        <source srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog2-cropped-320.jpg">
+        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/10558/dog2-480.jpg" alt="dog" width="480" height="360"
+      </picture>
+      <figcaption style="text-align: center">Maggie the dog enjoys resting in a field.</figcaption>
+    </figure>
+
+    <dl>
+      <dt><pre>The        List       of       the        animals       :</pre></dt>
+      <dd> <ol style="float: left">
+        <li>Hamsters</li>
+        <li>Rabbits</li>
+      </ol> <ul style="float: left">
+        <li>Gerbils</li>
+        <li>Mices</li>
+        <li>Rats</li>
+      </ul> </dd>
+    </dl><br><br>
 
     <article>
-      <video style="display:block; margin: 0 auto;" controls>
-        <source src="https://" type="video/">
+      <video style="display:block; margin: 0 auto;" controls width="200" height="200">
+        <source src="videoplayback.mp4" type="video/mp4">
+        <track kind="captions" src="sampleSubtitles_en.srt" srclang="en" label="English" default>
       </video>
     </article>
 
-    <pre>
-      Hello
-                go
-            of
-    </pre>
+    <audio controls style="float: right" src="" loop autoplay>
+      <source src="https://" type="video/">
+    </audio>
 
-    <li>hello</li>
-    <li><blockquote>
-      hello
-    </blockquote></li>
+    <header>
+      <h3>This is the end.</h3>
+      <aside>
+        <p><blockquote>The next event will display something more fresh and original.</blockquote>
+         <br>And at the end we will watch a movie called <q>Killer</q>.</p>
+      </aside>
+    </header>
 
-    <ul>
-      <li>go</li>
-      <li>on</li>
-    </ul>
+    <!-- <iframe src="" width="" height=""></iframe> -->
+    <table class="styled">
+      <tr>
+        <th>animals </th>
+        <th> lifespan</th>
+        <th> food</th>
+        <th><blockquote contenteditable="true">Add new</blockquote></th>
+      </tr>
+      <tr>
+        <td>rabbit</td>
+        <td>10</td>
+        <td>greens</td>
+        <td><blockquote contenteditable="true">Add new</blockquote></td>
+      </tr>
+      <tr>
+        <td>hamster</td>
+        <td>2-3</td>
+        <td>all</td>
+        <td><blockquote contenteditable="true">Add New</blockquote></td>
+      </tr>
+    </table>
 
-    <ol>
-      <li>for</li>
-      <li>a</li>
-    </ol>
+    <p>H<sup>2</sup>O and H<sub>2</sub>O in <small>2020 WORLD
+    </small> on <footer>smallik</footer></p>
 
-    <dl>
-      <dt>hello:</dt>
-        <dd><ul>
-          <li>groovy</li>
-          <li>foe</li></dd>
-    </dl>
+    <main>
 
-    <p>H<sup>2</sup>O</p>
-    <p>H<sub>2</sub>O</p>
-    <small>2020 hello</small>
+      <form action="" method="">
+        <label for="name">Name</label>
+        <input name="name" id="name" type="text">
+        <label for="email">Email</label>
+        <input name="email" id="email"
+               type="email" required
+               placeholder="me@example.com">
+        <label for="password">Password</label>
+        <input type="password" name="password" id="password">
+        <label for="textarea">textarea</label>
+        <textarea name="textarea" id="textarea" rows="15" cols="30"></textarea>
+        <label for="date">Date</label>
+        <input type="date" name="date" id="date">
+        <label for="color">Color</label>
+        <input type="color" name="color" id="color">
+        <label for="file">File</label>
+        <input type="file" name="file" id="file" accept="image/*" multiple>
+        <label for="checkbox">Checkbox</label>
+        <input name="checkbox" id="checkbox" value="The checkbox is checked" type="checkbox" checked>
+        <label for="selectlist">Choose one</label>
+        <select id="selectlist" name="selectlist">
+          <option>hello</option>
+          <option>bye</option>
+        </select>
 
-
-
-
+        <fieldset>
+          <legend>Checkbox in a fieldset</legend>
+          <input type="checkbox" name="checkboxlist" value="This" id="thischecked" checked>
+          <label for="thischeck">This</label> <br>
+          <input type="checkbox" name="checkboxlist" value="And or" id="orcheck">
+          <label for="orcheck">And/or</label> <br>
+          <input type="checkbox" name="checkboxlist" value="That" id="thatcheck">
+          <label for="thatcheck">That</label>
+        </fieldset>
+        <br>
+        <button type="submit">Sign</button>
+      </form>
+    </main>
 
   </body>
 </html>
